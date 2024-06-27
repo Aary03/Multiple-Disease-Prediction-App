@@ -7,7 +7,7 @@ This repository contains a web application for predicting the likelihood of thre
 - Predicts the likelihood of Parkinson's, heart disease, and diabetes.
 - User-friendly interface built with Streamlit.
 - Real-time predictions based on user input.
-- Deployed on Heroku for easy accessibility.
+
 
 ## Getting Started
 
